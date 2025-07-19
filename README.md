@@ -10,6 +10,8 @@ This assessment will help us better understand your technical skills, problem-so
 
 ## 📝 Overview & Instructions:
 
+[Here is link to brief tutorial](https://jws079-my.sharepoint.com/:v:/g/personal/terrence_aureliusts_com/EdKRzp_TW81MvTRjIRNRVIkBqo5LsdQEZptq9VdkjCdKPA?e=rajKVY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
 **Step-by-step Guide for Candidates**
 
 ### Step 1: Fork & Clone the Repository
