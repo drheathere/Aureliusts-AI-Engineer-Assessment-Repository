@@ -10,7 +10,7 @@ This assessment will help us better understand your technical skills, problem-so
 
 ## 📝 Overview & Instructions:
 
-[Here is link to brief tutorial](https://jws079-my.sharepoint.com/:v:/g/personal/terrence_aureliusts_com/EdKRzp_TW81MvTRjIRNRVIkBqo5LsdQEZptq9VdkjCdKPA?e=rajKVY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+[Here is link to brief tutorial](https://drive.google.com/file/d/1oafmjYmrFPkExQdsqW_FU9xnY_f7567V/view?usp=drive_link)
 
 **Step-by-step Guide for Candidates**
 
