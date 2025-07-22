@@ -10,7 +10,7 @@ This assessment will help us better understand your technical skills, problem-so
 
 ## 📝 Overview & Instructions:
 
-[Here is link to brief tutorial](https://drive.google.com/file/d/1oafmjYmrFPkExQdsqW_FU9xnY_f7567V/view?usp=drive_link)
+[Click this link to view the tutorial video](https://drive.google.com/file/d/1oafmjYmrFPkExQdsqW_FU9xnY_f7567V/view?usp=drive_link)
 
 **Step-by-step Guide for Candidates**
 
