@@ -1,0 +1,25 @@
+Variable Name,Data Type,Variable Description,Example Values
+claim_id,Numeric/Continuous,Unique identifier for each claim,[1 2 3 4 5]
+veteran_id_hash,Categorical,Hashed identifier for each veteran,"['1b346cb33038fe461d654e6d12458540f51b4b921a4d5aeb62dc2b25ae265990'
+ '7f599a16d43e3c2419ef2ea005c22b133abce4a8a3c0aef408cf66ac87d67b6a'
+ 'd809164699874d060ef071f1eb3d181611c02f8fc5b0248377744152d960d171'
+ '4dac48580b69bd64d82267e1380ba13ae86f69ccb3f58ca2b028d0ae70f5658a'
+ 'd410375d31b51111c3f6c4e0343bbb942c1bbbf1fe3fe429d282727884b20fda']"
+age,Numeric/Continuous,Age of the veteran at the time of claim,[19 42 28 18 65]
+gender,Categorical,"Gender of the veteran ('M' = Male, 'F' = Female, 'O' = Other/Nonbinary)",['M' 'F' 'O']
+branch_of_service,Categorical,Military branch in which the veteran served,['Space Force' 'Army' 'Marine Corps' 'Coast Guard' 'Navy']
+claim_type,Categorical,Type of benefit or compensation claim,['Education' 'Disability Compensation' 'Pension' 'Burial' 'Health Care']
+diagnosis_code,Categorical,ICD-10 diagnosis code related to the claim,['E11.9' 'I10' 'M54.5' 'E78.5' 'F41.9']
+claim_amount,Numeric/Continuous,Monetary amount requested in the claim,[27585.7  27607.4  37141.2  28417.58 18418.67]
+claim_filed_date,Date,Date the claim was filed,['2022-03-04' '2016-04-01' '2015-04-13' '2023-04-26' '2018-01-31']
+decision_date,Date,Date the claim was adjudicated,['2022-11-13' '2016-08-17' '2015-08-26' '2023-12-09' '2018-07-10']
+outcome,Categorical,Final decision on the claim [(Denied' 'Approved' 'Partial Approval'),['Denied' 'Approved' 'Partial Approval']
+facility_code,Categorical,Code for the VA facility processing the claim,['VAMC025' 'VAMC026' 'VAMC058' 'VAMC013' 'VAMC150']
+provider_type,Categorical,"Type of healthcare provider ('Internal VA',  'Community Care'",['Internal VA' 'Community Care']
+state,Categorical,State of the veteran or processing facility,['TN' 'WV' 'OH' 'MN' 'LA']
+disability_percent,Numeric/Continuous,Percent disability rating assigned,[60 10 70 90 80]
+PTSD_indicator,Numeric/Continuous,"Indicator if claim involves PTSD (1 = Yes, 0 = No)",[0 1]
+appeals_count,Numeric/Continuous,Number of times the claim has been appealed,[0 1 2 3 5]
+rural_urban,Categorical,Veteran's residence classification,['Urban' 'Rural']
+wait_time_days,Numeric/Continuous,Days between filing and decision,[254 138 135 227 160]
+is_service_connected,Numeric/Continuous,"Whether condition is connected to service (1 = Yes, 0 = No)",[0 1]
